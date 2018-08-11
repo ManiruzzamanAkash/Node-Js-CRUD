@@ -1,5 +1,18 @@
 # Node-Js-CRUD
-A complete Basic CRUD of Node JS With MongoDB, Express, Mongoose and Node Js
+A complete Basic CRUD of Node JS With MongoDB, Express, Mongoose and Node Js.
+
+# Steps
+<b>Install Node Package Manager and symc with projects packages.json. Execute Command </b>
+   <pre>npm install</pre>
+  
+  <b> Start your Mongo Database </b>
+  <b> Execute the command </b>
+  <pre>npm start</pre>
+<b> Now server will run. Browse-</b> at http://localhost/8080
+<br /> 
+Add Some Tasks first by going http://localhost/8080/add
+<br />
+Enjoy
 
 # Node JS Basic CRUD - Home Page
 
