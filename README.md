@@ -2,7 +2,7 @@
 A complete Basic CRUD of Node JS With MongoDB, Express, Mongoose and Node Js.
 
 # Steps
-<b>Install Node Package Manager and symc with projects packages.json. Execute Command </b>
+<b>Install Node Package Manager and sync with projects packages.json. Execute Command </b>
 <pre>npm install</pre>
   
 <b> Start your Mongo Database. Go your MongoDB folder. Like; C://MongoDB/bin</b>
@@ -17,6 +17,8 @@ A complete Basic CRUD of Node JS With MongoDB, Express, Mongoose and Node Js.
 Add Some Tasks first by going http://localhost/8080/add
 <br />
 Enjoy
+
+<mark> Note: </mark> All CSS and JS are used from CDN. Without Internet connection design will not be seen.
 
 # Node JS Basic CRUD - Home Page
 
